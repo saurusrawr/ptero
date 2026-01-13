@@ -486,7 +486,7 @@ fi
 ;;
      7)
 # Default URL gambar
-DEFAULT_URL="https://telegra.ph/file/35d23db684fd1d88556ee.jpg"
+DEFAULT_URL="https://raw.githubusercontent.com/saurusrawr/akirabot/main/uploads/2026-01-13/saurus_1768337868747_lfopa.jpg"
 
 # Meminta input URL gambar dari pengguna
 read -p "Masukkan URL gambar (tekan Enter untuk menggunakan URL default): " USER_URL
